@@ -1,0 +1,10 @@
+.characters-list-with-length {
+  color: #0f172a;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.char-length {
+  font-size: 25px;
+  font-weight: bold;
+}
